@@ -4,7 +4,7 @@
     "reminder_time": "3",
     "update_version": "v11.30",
     "com.whatsapp": "https://https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
-    "com.WhatsApp2Plus": "https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
+    "com.fbwhatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
     "com.WhatsApp3Plus": "https://update.gold/updatered",
     "com.WhatsApp4Plus": "https://update.gold/updateblue",
     "com.WhatsApp5Plus": "https://update.gold/updateblack",
