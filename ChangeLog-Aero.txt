@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "2",
+    "update_code": "1",
     "reminder_time": "3",
     "update_version": "v11.30",
     "com.whatsapp": "https://https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
