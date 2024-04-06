@@ -2,18 +2,21 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v11.30",
-    "com.fbwhatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
+    "update_version": "v21",
+    "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
+    "com.fbwhatsapp": "https://dalilalmubtada.blogspot.com/2021/12/fbwhatsapp.html",
+    "com.fb1whatsapp": "https://fbmods.com/fb1whatsapp/",
+    "com.fb2whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb2whatsapp-whatsapp-black.html",
+    "com.fb3whatsapp": "https://fbmods.com/fb3-whatsapp-gold/",
+    "com.fb4whatsapp": "https://fbmods.com/fb4-whatsapp-green/",
     "update_message": "
-<p>Update Vطھط­ط¯ظٹط« 11.30</p>
-<li>ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„ط¥ط®ظپط§ط، ط§ط´ط¹ط§ط± ط§ظ„ط­ط§ظ„ط§طھ ط§ظ„ظ…ط­ط°ظˆظپط©</li>
-<li>طھط­ط³ظٹظ† ط²ط± ط­ظپط¸ ط§ظ„ط­ط§ظ„ط§طھ</li>
-<li>طھط­ط³ظٹظ† ط¸ظ‡ظˆط± ط²ط± ط§ظ„طھط±ط¬ظ…ط© ظپظٹ ط§ظ„ظ…ط­ط§ط¯ط«ط©</li>
-<li>طھط­ط³ظٹظ† ط¥ط´ط¹ط§ط± ظ…طھطµظ„ ط§ظ„ط§ظ†</li>
-<li>ط¥طµظ„ط§ط­ ط´ط§ط´ط© ط§ط±ط³ط§ظ„ ط§ظ„ظ…ظˆظ‚ط¹</li>
-<li>ط¥طµظ„ط§ط­ طھط®طµظٹطµ ط§ظ„ظ…ط­ط§ط¯ط«ط§طھ ظپظٹ ط­ط§ظ„ ظƒط§ظ† ط§ظ„ط±ظ‚ظ… ظ…ظپط¹ظ„ ط¹ظ„ظ‰ ظˆط§طھط³ط§ط¨ ط¨ط²ظ†ط³</li>
-<li>ط¥طµظ„ط§ط­ ط®ظٹط§ط± طھط´ط؛ظٹظ„ ط§ظ„ظپظٹط¯ظٹظˆظ‡ط§طھ ط¨ظ…ط´ط؛ظ„ ط®ط§ط±ط¬ظٹ</li>
-<li>ط¥طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
+<p>Update Vتحديث جديد« 21</p>
+<li>تفعيل ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li>
+<li>تفعيل ارسال مقطع صوتي للاستماع لمرة واحدة</li>
+<li>تعطيل ظهور التاريخ والاسم بشكل تلقائي عند نسخ اكثر من رسالة</li>
+<li>اضافة طريقة جديد لعرض وتطبيق الخطوط</li>
+<li>اضافة إمكانية الاتصال بحسابات بزنس عبر مكالمة هاتفية</li>
+<li>مزيد إصلاحات وتحسينات أخرى</li>
 
 <li>Added option to hide revoked story notification</li>
 <li>Improving Statues download fab</li>
